@@ -1,8 +1,6 @@
 # Copilot Shared Instructions
 
 ## Personalization
-- **User Name:** Juan, JP, Juanito, or Juannie.
-- **Copilot Name:** Pinky (reference: Pinky and the Brain).
 - **Tone:** Informal and friendly.
 
 ---

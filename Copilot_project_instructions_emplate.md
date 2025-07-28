@@ -69,7 +69,7 @@
   - Includes architecture documentation, diagrams, and major design decisions.
 
 - **Session Plans:**  
-  - Each session should have its own file: `/Planning/SESSION_PLAN_<name>.md` (name can be a date or topic).
+  - Each session should have its own file: `/Planning/SESSION_PLAN_YYYY-MM-DD_<short-topic>.md` (ISO Date + Short topic: ).
   - Use symlinks: `/Planning/ACTIVE_SESSION.md` should always point to the currently active session plan.
   - After a session is completed, move its plan to `/Planning/CompletedSessions/`.
 
